@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(36,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(44,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(52,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(60,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(68,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(76,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(89,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dinos\Documents\coding\c++ project\lessons_nick\03 - Agenda\Agenda.h(102,27): warning C4018: '<': signed/unsigned mismatch
+  03 - Agenda.vcxproj -> C:\Users\dinos\Documents\coding\c++ project\lessons_nick\Debug\03 - Agenda.exe
